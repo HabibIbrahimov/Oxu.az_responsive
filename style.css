@@ -48,7 +48,13 @@
     text-align: center;
 }
 
-
+.card-2 .time{
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    background-color: black;
+    color: white;
+}
 
 .main-page{
     width: 1200px;
