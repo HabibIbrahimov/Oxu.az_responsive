@@ -70,3 +70,14 @@
     justify-content: space-evenly;
 }
 
+@media (max-width: 900px) {
+    .main-page{
+      flex-direction:column;
+    }
+  } 
+ 
+
+
+
+
+
